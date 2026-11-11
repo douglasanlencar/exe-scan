@@ -1,0 +1,12 @@
+/build/
+/cmake-build-*/
+/dist/
+*.user
+*.AppImage
+.DS_Store
+uploads/
+*.exe
+.cache/
+*-debuginfo-*.rpm
+*-debugsource-*.rpm
+dist/
